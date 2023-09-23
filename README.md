@@ -6,3 +6,4 @@
 [3-dars: Go dasturlash tilida o'zgaruvchilar.](https://github.com/alishercpp/GoLand/blob/master/lesson3.go) <br>
 [4-dars: Go dasturlash tilida asosiy ma'lumot turlari.](https://github.com/alishercpp/GoLand/blob/master/lesson4.go) <br>
 [5-dars: Go dasturlash tilida IOStream.](https://github.com/alishercpp/GoLand/blob/master/lesson5.go) <br>
+[6-dars: Go dasturlash tilida if/else/else if.](https://github.com/alishercpp/GoLand/blob/master/lesson6.go) <br>
