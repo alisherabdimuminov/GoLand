@@ -9,3 +9,4 @@
 [6-dars: Go dasturlash tilida if/else/else if.](https://github.com/alishercpp/GoLand/blob/master/lesson6.go) <br>
 [7-dars: Go dasturlash tilida sikl.](https://github.com/alishercpp/GoLand/blob/master/lesson7.go) <br>
 [8-dars: Go dasturlash tilida arrays.](https://github.com/alishercpp/GoLand/blob/master/lesson8.go) <br>
+[9-dars: Go dasturlash arraydan element o'chirish.](https://github.com/alishercpp/GoLand/blob/master/lesson9.go) <br>
