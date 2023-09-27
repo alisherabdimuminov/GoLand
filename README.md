@@ -13,3 +13,4 @@
 [10-dars: Go dasturlash tilida map.](https://github.com/alishercpp/GoLand/blob/master/lesson10.go) <br>
 [11-dars: Go dasturlash tilida nested map.](https://github.com/alishercpp/GoLand/blob/master/lesson11.go) <br>
 [12-dars: Go dasturlash tilida funksiyalar.](https://github.com/alishercpp/GoLand/blob/master/lesson12.go) <br>
+[13-dars: Go dasturlash tilida rekursiya.](https://github.com/alishercpp/GoLand/blob/master/lesson13.go) <br>
