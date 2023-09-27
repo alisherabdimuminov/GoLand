@@ -10,3 +10,4 @@
 [7-dars: Go dasturlash tilida sikl.](https://github.com/alishercpp/GoLand/blob/master/lesson7.go) <br>
 [8-dars: Go dasturlash tilida arrays.](https://github.com/alishercpp/GoLand/blob/master/lesson8.go) <br>
 [9-dars: Go dasturlash arraydan element o'chirish.](https://github.com/alishercpp/GoLand/blob/master/lesson9.go) <br>
+[10-dars: Go dasturlash tilida map.](https://github.com/alishercpp/GoLand/blob/master/lesson10.go) <br>
