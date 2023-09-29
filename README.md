@@ -15,3 +15,4 @@
 [12-dars: Go dasturlash tilida funksiyalar.](https://github.com/alishercpp/GoLand/blob/master/lesson12.go) <br>
 [13-dars: Go dasturlash tilida rekursiya.](https://github.com/alishercpp/GoLand/blob/master/lesson13.go) <br>
 [14-dars: Go dasturlash tilida random.](https://github.com/alishercpp/GoLand/blob/master/lesson14.go) <br>
+[15-dars: Go dasturlash tilida time.](https://github.com/alishercpp/GoLand/blob/master/lesson15.go) <br>
